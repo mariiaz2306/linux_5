@@ -1,0 +1,14 @@
+   0 vi /tmp/file.txt
+   1 cd/
+   2 cd /
+   3 ls
+   4 cd tmp
+   5 ls
+   6 df -h
+   7 df -h | head -n 3
+   8 df -h | head -n 3 >> /tmp/file.txt
+   9 cat file.txt
+  10 chmod g+w file.txt
+  11 chmod u-r file.txt
+  12 chmod o+x file.txt
+  13 history > linux_homework_5.txt
